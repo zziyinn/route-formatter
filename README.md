@@ -18,5 +18,7 @@ No installation required. Try it directly here:
 ## 🛠️ Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourname/route-formatter.git
+   git clone https://github.com/zziyinn/route-formatter.git
    cd route-formatter
+   pip install -r requirements.txt
+   streamlit run app.py
